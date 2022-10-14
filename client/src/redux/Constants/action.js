@@ -1,0 +1,80 @@
+export const ADMIN_LOGIN = "ADMIN_LOGIN";
+export const ADMIN_ERROR = "ADMIN_ERROR";
+export const ADMIN_LOADING = "ADMIN_LOADING";
+export const ADMIN_CHECK = "ADMIN_CHECK";
+export const ADMIN_LOGOUT = "ADMIN_LOGOUT";
+
+export const LOGIN = "LOGIN";
+export const REGISTER = "REGISTER";
+export const UPDATE_MY_INFO = "UPDATE_MY_INFO";
+export const AUTH_ERROR = "AUTH_ERROR";
+export const AUTH_LOADING = "AUTH_LOADING";
+export const AUTH_CHECK = "AUTH_CHECK";
+export const LOGOUT = "LOGOUT";
+export const AUTH_MAIL_VERIFY = "AUTH_MAIL_VERIFY";
+
+
+export const GET_MY_PROFILE = "GET_MY_PROFILE";
+export const PROFILE_ERROR = "PROFILE_ERROR";
+export const PROFILE_LOADING = "PROFILE_LOADING";
+export const UPDATE_PROFILE = " UPDATE_PROFILE";
+
+export const GET_PRODUCTS = "GET_PRODUCTS";
+export const GET_PRODUCT = "GET_PRODUCT";
+export const UPDATE_PRODUCT = "UPDATE_PRODUCT";
+export const DELETE_PRODUCT = "DELETE_PRODUCT";
+export const ADD_PRODUCT = "ADD_PRODUCT";
+export const PRODUCT_ERROR = "PRODUCT_ERROR";
+export const PRODUCT_LOADING = "PRODUCT_LOADING";
+
+export const GET_CATEGORIES = "GET_CATEGORIES";
+export const GET_CATEGORY = "GET_CATEGORY";
+export const ADD_CATEGORY = "ADD_CATEGORY";
+export const CATEGORY_ERROR = "CATEGORY_ERROR";
+export const CATEGORY_LOADING = "CATEGORY_LOADING";
+export const GET_CATEGORIES_BY_STORE = "GET_CATEGORIES_BY_STORE";
+
+export const GET_STORES = "GET_STORES";
+export const GET_STORE = "GET_STORE";
+export const GET_MY_STORE = "GET_MY_STORE";
+export const STORE_ERROR = "STORE_ERROR";
+export const STORE_LOADING = "STORE_LOADING";
+export const UPDATE_STORE = "UPDATE_STORE";
+
+export const CART_LOADING = "CART_LOADING";
+export const ADD_TO_CART = "ADD_TO_CART";
+export const REMOVE_FROM_CART = "REMOVE_FROM_CART";
+export const EMPTY_CART = "EMPTY_CART";
+export const GET_OWNED_CART = "GET_OWNED_CART";
+export const GET_MY_CARTS = "GET_MY_CARTS";
+export const GET_MY_CUSTOMER = "GET_MY_CUSTOMER";
+export const CART_ERROR = "CART_ERROR";
+
+export const ORDER_LOADING = "ORDER_LOADING";
+export const CHECKOUT_ORDER = "CHECKOUT_ORDER";
+export const GET_ORDER = "GET_ORDER";
+export const GET_MY_ORDER = "GET_MY_ORDER";
+export const GET_ORDER_MERCHANT = "GET_ORDER_MERCHANT";
+export const GET_MY_ORDERS = "GET_MY_ORDERS";
+export const GET_ORDERS_MERCHANT = "GET_ORDERS_MERCHANT";
+export const GET_ORDERS = "GET_ORDERS";
+export const CANCELED_ORDER = "CANCELED_ORDER";
+export const CONFIRMED_ORDER = "CONFIRMED_ORDER";
+export const FULFILLED_ORDER = "FULFILLED_ORDER";
+export const ORDER_ERROR = "ORDER_ERROR";
+
+export const ADD_ADDRESS = "ADD_ADDRESS";
+export const GET_ADDRESS = "GET_ADDRESS";
+export const UPDATE_ADDRESS = "UPDATE_ADDRESS";
+export const ADDRESS_ERROR = "ADDRESS_ERROR";
+export const ADDRESS_LOADING = "ADDRESS_LOADING";
+
+export const REVIEW_ERROR = "REVIEW_ERROR";
+export const REVIEW_LOADING = "REVIEW_LOADING";
+export const UPDATE_REVIEW = "UPDATE_REVIEW";
+export const ADD_REVIEW = "ADD_REVIEW";
+
+export const WISHLIST_ERROR = "WISHLIST_ERROR";
+export const WISHLIST_LOADING = " WISHLIST_LOADING";
+export const ADD_ITEM_TO_WISHLIST = " ADD_ITEM_TO_WISHLIST";
+export const GET_MY_WISHLIST = "GET_MY_WISHLIST";

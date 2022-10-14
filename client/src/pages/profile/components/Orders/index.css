@@ -1,0 +1,11 @@
+td {
+  text-align: center;
+  vertical-align: middle;
+  font-size: 1rem; /* 12px */
+  line-height: 1rem; /* 16px */
+  padding-top:0.5rem;
+  padding-bottom:0.5rem
+}
+th {
+  padding: 1.5rem
+}
